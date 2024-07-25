@@ -1,4 +1,4 @@
-record3d-pip:
+python3-record3d-pip:
   ubuntu:
     pip:
       packages: [record3d]
