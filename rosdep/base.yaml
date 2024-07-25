@@ -1,3 +1,7 @@
+python3-record3d-pip:
+  '*':
+    pip:
+      packages: [record3d]
 ace:
   arch: [ace]
   debian: [libace-dev]
