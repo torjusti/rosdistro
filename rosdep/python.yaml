@@ -1,3 +1,7 @@
+record3d-pip:
+  ubuntu:
+    pip:
+      packages: [record3d]
 adafruit-ads1x15-pip:
   debian:
     pip:
